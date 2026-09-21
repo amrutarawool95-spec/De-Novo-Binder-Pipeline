@@ -18,3 +18,4 @@ A fully reproducible, containerized Snakemake pipeline for designing de novo min
 - Conda/Mamba
 
 ### Installation
+git clone https://github.com/amrutarawool95-spec/de-novo-binder-pipeline.git

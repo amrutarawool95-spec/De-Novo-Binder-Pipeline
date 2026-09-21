@@ -1,0 +1,15 @@
+name: binder_design_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - snakemake=7.32
+  - biopython=1.81
+  - pandas=2.0
+  - matplotlib=3.7
+  - pip:
+    - torch==2.0.1
+    - jax==0.4.13
+    - jaxlib==0.4.13
